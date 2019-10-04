@@ -22,7 +22,7 @@
 		    	* Menu com 3 opções de bebidas;
 		    	* Possibilidade de ajuste de temperatura no menu;
           * 1 Peltier funcional;
-		   	  * 1 Bomba do líquido funcional;
+		      * 1 Bomba do líquido funcional;
 		      * 1 Válvula Solenoide funcional;
 		      * Das 3 opções de bebidas do menu, uma será funcional (a qual valida a funcionalidade do projeto);
 

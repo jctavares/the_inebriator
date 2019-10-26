@@ -53,4 +53,4 @@
 				  	* A bomba de aquário È ativada e bombeia o líquido para o funil durante 5 segundos;
 			     		* A peltier gela atÈ atingir a temperatura desejada ou o limite de 10 segundos;
 				  	* A válvula solenoide È ativada e deixa que o conte˙do do funil saia durante 5 segundos para o copo.
-		3.4 Como beber - Moderadamente :)
+		3.4 Como beber - Moderadamente =)

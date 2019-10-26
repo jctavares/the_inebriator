@@ -44,7 +44,7 @@
 		- 5 botões
 		- 1 Potenciômetro 50k
 		- 1 Bomba de Aquário
-		- 1 Fonte de alimentação (5v e 13v)
+		- 1 Fonte de alimentação (5 e 13v)
 
 	3. FUNCIONAMENTO DO PROJETO
 		3.1 Escolhendo a bebida - O usuário dispõe de 3 botões (vai, volta e confirma) para navegar pelo menu. Após escolher a bebida desejada, basta apertar o botão de confirma e esperar.

@@ -203,7 +203,7 @@ void confirma() // Função para chamar os procedimentos da bebida escolhida
   pos = 5;
 }
 
-float mediaTemp() // Faz uma média (1000 medidas) da temperatura com base na informação do sensor
+float mediaTemp() // Faz uma média (de 1000 medidas) da temperatura com base na informação do sensor
  {
   int i;
   float resultado = 0;
